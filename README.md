@@ -13,9 +13,9 @@ Como desenvolvedor, as contribuições para este projeto incluem:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Laravel** e **PHP**
+- **PHP** com **Laravel**
 - **JavaScript** e **jQuery**
-- **HTML/CSS**
+- **Bootstrap** e outras bibliotecas
 
 ## 🔒 Propriedade Intelectual
 
