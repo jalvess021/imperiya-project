@@ -1,5 +1,3 @@
-# Projeto de Plataforma de Gestão Documental
-
 ## 🌟 Descrição do Projeto
 
 Este projeto é uma plataforma para **gestão documental** e **gerenciamento de setores internos**. O sistema é desenvolvido para oferecer uma solução eficiente para administração de documentos e processos internos.
@@ -8,10 +6,10 @@ Este projeto é uma plataforma para **gestão documental** e **gerenciamento de 
 
 Como desenvolvedor, as contribuições para este projeto incluem:
 
-- 🚀 **Desenvolvimento de Funcionalidades**: Criação de recursos e funcionalidades usando **Laravel** e **PHP**.
-- 🖋️ **Scripts Personalizados**: Desenvolvimento de scripts personalizados em **JavaScript** e **jQuery**.
-- 🔄 **Otimização e Manutenção**: Melhoria contínua do desempenho e manutenção do sistema.
-- 🛠️ **Suporte e Atualizações**: Resolução de problemas e atualizações contínuas.
+-  **Desenvolvimento de Funcionalidades**: Criação de recursos e funcionalidades usando **Laravel** e **PHP**.
+-  **Scripts Personalizados**: Desenvolvimento de scripts personalizados em **JavaScript** e **jQuery**.
+-  **Otimização e Manutenção**: Melhoria contínua do desempenho e manutenção do sistema.
+-  **Suporte e Atualizações**: Resolução de problemas e atualizações contínuas.
 
 ## 🛠️ Tecnologias Utilizadas
 
